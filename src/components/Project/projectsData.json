@@ -1,0 +1,38 @@
+[
+    {
+      "title": "AI-Driven Mass Recruiting Tool",
+      "description": "Developed a mass recruiting application using TypeScript and ES6, integrated with Node.js and MongoDB. The tool features real-time user environment statistics through AWS, Sentry, and Amplitude, while leveraging CI/CD pipelines for efficient deployment.",
+      "techList": ["TypeScript", "Node.js", "MongoDB", "AWS", "Sentry", "Amplitude"],
+      "githubLink": "https://github.com/example/ai-based-saas-product",
+      "externalLink": "https://www.example.com/ai-based-saas-product"
+    },
+    {
+      "title": "Comprehensive Trading Platform",
+      "description": "Created a platform for trading cryptocurrencies, stocks, and options, completing integrations with Plaid for payments and Firebase for mobile notifications. The application emphasizes modular code and robust CI/CD practices.",
+      "techList": ["Plaid", "Firebase", "Node.js", "Express.js"],
+      "githubLink": "https://github.com/example/financial-invetment-analysis-app",
+      "externalLink": "https://www.example.com/financial-invetment-analysis-app"
+    },
+    {
+      "title": "Interconnected Project Suite",
+      "description": "Led the development of a suite of interconnected projects utilizing a GRPC microservices architecture, employing technologies like ReactJS, NestJS, and MongoDB for high-performance applications.",
+      "techList": ["ReactJS", "NestJS", "MongoDB", "GraphQL"],
+      "githubLink": "https://github.com/example/saas-product",
+      "externalLink": "https://www.example.com/saas-product"
+    },
+    {
+      "title": "Billiard Club Management System",
+      "description": "Developed a complete management system for a billiard club using Node.js and NestJS, featuring a GRPC microservices architecture and seamless Stripe payment integration.",
+      "techList": ["Node.js", "NestJS", "GraphQL", "MongoDB", "Stripe"],
+      "githubLink": "https://github.com/example/nft-based-game",
+      "externalLink": "https://www.example.com/nft-based-game"
+    },
+    {
+      "title": "Robust E-Commerce Application",
+      "description": "Designed and developed a scalable e-commerce application based on a client’s Figma design using Node.js, Express.js, MongoDB, and React.js, implementing features like invoicing, order management, and merchant profiles.",
+      "techList": ["Node.js", "Express.js", "MongoDB", "React.js"],
+      "githubLink": "https://github.com/example/e-commerce",
+      "externalLink": "https://www.example.com/e-commerce"
+    }
+  ]
+  
