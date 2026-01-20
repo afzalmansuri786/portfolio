@@ -9,11 +9,11 @@ import whatsapp from '../../assets/whatsapp.svg'
 import Hello from '../../assets/Hello.gif'
 import telegram from '../../assets/telegram.svg'
 export function Hero() {
-  const startDate = new Date(2022, 0, 1); // Jan = 0
-  const now = new Date();
+  const startDate: any|Date = new Date(2022, 0, 1); // Jan = 0
+  const now: number|any = new Date();
   
-  const diffInMs = now - startDate;
-  const years = diffInMs / (1000 * 60 * 60 * 24 * 365.25);
+  const diffInMs: any = now - startDate;
+  const years: any = diffInMs / (1000 * 60 * 60 * 24 * 365.25);
   
   // one decimal place
   const experienceYears = years.toFixed(1);
