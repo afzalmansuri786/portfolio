@@ -1,34 +1,34 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.039bf95e.css",
-    "main.js": "/portfolio/static/js/main.2d523f63.js",
+    "main.css": "/portfolio/static/css/main.e016d95c.css",
+    "main.js": "/portfolio/static/js/main.66a78eb0.js",
     "static/media/resume-sample.pdf": "/portfolio/static/media/resume-sample.1518c440e8c5fa776292.pdf",
     "static/media/Hello.gif": "/portfolio/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/3d-avatar.jpg": "/portfolio/static/media/3d-avatar.d480bf5e1894c73dd52f.jpg",
     "static/media/illustration.svg": "/portfolio/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
-    "static/media/sass-icon.svg": "/portfolio/static/media/sass-icon.3572f53ec4f404e921a9e8193cdb70fe.svg",
+    "static/media/sass-icon.svg": "/portfolio/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
     "static/media/nestjs.svg": "/portfolio/static/media/nestjs.f0bfea9035eff373104123f44fe86d11.svg",
-    "static/media/node-icon.svg": "/portfolio/static/media/node-icon.cc3d45a160579a330a5c17cc2c8f1407.svg",
-    "static/media/typescript-icon.svg": "/portfolio/static/media/typescript-icon.f3bc0fd998dea6b1266965436af97a49.svg",
+    "static/media/node-icon.svg": "/portfolio/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/typescript-icon.svg": "/portfolio/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
     "static/media/aws-2.svg": "/portfolio/static/media/aws-2.1baaa078f947505c36dc8ee7595f91da.svg",
-    "static/media/bootstrap-icon.svg": "/portfolio/static/media/bootstrap-icon.09b773cc0f17dc078cc9864e5e8006ba.svg",
-    "static/media/react-icon.svg": "/portfolio/static/media/react-icon.a010f287ea79ad0673b610a223faa951.svg",
+    "static/media/bootstrap-icon.svg": "/portfolio/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg",
+    "static/media/react-icon.svg": "/portfolio/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
     "index.html": "/portfolio/index.html",
-    "static/media/shopify.svg": "/portfolio/static/media/shopify.6844408d4c13f2222031ef679e05c95e.svg",
+    "static/media/shopify.svg": "/portfolio/static/media/shopify.162913e43c02c125fd0720d80fc0dba3.svg",
     "static/media/github.svg": "/portfolio/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
     "static/media/graphql-logo-2.svg": "/portfolio/static/media/graphql-logo-2.488e5ca26ffde22d9a3d8925fce09070.svg",
-    "static/media/external-link.svg": "/portfolio/static/media/external-link.8ce0d189635b118259ec51d8c9b4a1d0.svg",
-    "static/media/html-icon.svg": "/portfolio/static/media/html-icon.185baee7db74b83bf22eec6a6def7644.svg",
-    "static/media/css-icon.svg": "/portfolio/static/media/css-icon.212d777ae2db63edb235490d487dc292.svg",
-    "static/media/wordpress.svg": "/portfolio/static/media/wordpress.19efd7af1fafc38a53600387f0821d3d.svg",
+    "static/media/external-link.svg": "/portfolio/static/media/external-link.74ce2401d684101cc83125c6dac8ce9c.svg",
+    "static/media/html-icon.svg": "/portfolio/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
+    "static/media/wordpress.svg": "/portfolio/static/media/wordpress.3bcdd91b50514041e84ea420c14b4812.svg",
+    "static/media/css-icon.svg": "/portfolio/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
-    "static/media/js-icon.svg": "/portfolio/static/media/js-icon.2d25723e91c8a9e057ae447ae6a73ecb.svg",
-    "static/media/vue-icon.svg": "/portfolio/static/media/vue-icon.7219cc0384993fc067ee20c94a66b1e9.svg",
-    "main.039bf95e.css.map": "/portfolio/static/css/main.039bf95e.css.map",
-    "main.2d523f63.js.map": "/portfolio/static/js/main.2d523f63.js.map"
+    "static/media/js-icon.svg": "/portfolio/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
+    "static/media/vue-icon.svg": "/portfolio/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
+    "main.e016d95c.css.map": "/portfolio/static/css/main.e016d95c.css.map",
+    "main.66a78eb0.js.map": "/portfolio/static/js/main.66a78eb0.js.map"
   },
   "entrypoints": [
-    "static/css/main.039bf95e.css",
-    "static/js/main.2d523f63.js"
+    "static/css/main.e016d95c.css",
+    "static/js/main.66a78eb0.js"
   ]
 }
