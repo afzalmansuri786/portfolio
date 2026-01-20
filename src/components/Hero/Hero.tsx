@@ -9,6 +9,15 @@ import whatsapp from '../../assets/whatsapp.svg'
 import Hello from '../../assets/Hello.gif'
 import telegram from '../../assets/telegram.svg'
 export function Hero() {
+  const startDate = new Date(2022, 0, 1); // Jan = 0
+  const now = new Date();
+  
+  const diffInMs = now - startDate;
+  const years = diffInMs / (1000 * 60 * 60 * 24 * 365.25);
+  
+  // one decimal place
+  const experienceYears = years.toFixed(1);
+
   return (
     <Container id="home">
       <div className="hero-text">
@@ -22,7 +31,7 @@ export function Hero() {
           <h3>Software Engineer</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.6 * 1000}>
-          <p className="small-resume">3 Years of Experience</p>
+          <p className="small-resume">{experienceYears} Years of Experience</p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInUp" delay={0.8 * 1000}>
           <BrowserRouter>
